@@ -273,7 +273,9 @@ footer img {
        }
 
 
-
+       .examples:hover{
+          text-decoration: underline;
+       }
        .card_image> img{
          max-width: 100%;
          display: block;
